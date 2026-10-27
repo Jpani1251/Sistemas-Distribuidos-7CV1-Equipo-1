@@ -1,2 +1,2 @@
-# Practicas_S.D
-Este repositorio esta diseñado para almacenar evidencias de las practicas de la materia de Sistemas Distribuidos
+# Equipo 1 Sistemas Distribuidos
+Este repositorio está diseñado para almacenar evidencias de las prácticas y proyecto integrador de la materia Sistemas Distribuidos
